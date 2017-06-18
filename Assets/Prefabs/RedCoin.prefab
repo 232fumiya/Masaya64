@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 33671704531048278}
   - component: {fileID: 136527546419843322}
   - component: {fileID: 23046417408856258}
-  - component: {fileID: 95279911618324826}
+  - component: {fileID: 95383969689313990}
   m_Layer: 0
   m_Name: RedCoin
   m_TagString: Untagged
@@ -82,7 +82,7 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1538095629304786}
   m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
---- !u!95 &95279911618324826
+--- !u!95 &95383969689313990
 Animator:
   serializedVersion: 3
   m_ObjectHideFlags: 1
@@ -91,7 +91,7 @@ Animator:
   m_GameObject: {fileID: 1538095629304786}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: e29b1c5990e9b4754b6b048d0ec7aae8, type: 2}
+  m_Controller: {fileID: 9100000, guid: e076a9b53782a414b9b50cc92483c2c0, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
