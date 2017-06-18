@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 33673314921209298}
   - component: {fileID: 136363128298803848}
   - component: {fileID: 23343325453656482}
-  - component: {fileID: 95458194767720570}
+  - component: {fileID: 95619208998887744}
   m_Layer: 0
   m_Name: Coin
   m_TagString: Untagged
@@ -37,7 +37,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1284759020311746}
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 2, z: -3}
   m_LocalScale: {x: 1, y: 0.1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -82,7 +82,7 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1284759020311746}
   m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
---- !u!95 &95458194767720570
+--- !u!95 &95619208998887744
 Animator:
   serializedVersion: 3
   m_ObjectHideFlags: 1
@@ -91,7 +91,7 @@ Animator:
   m_GameObject: {fileID: 1284759020311746}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: e29b1c5990e9b4754b6b048d0ec7aae8, type: 2}
+  m_Controller: {fileID: 9100000, guid: 8237f72ff72534105bfa1bdf575728a3, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
