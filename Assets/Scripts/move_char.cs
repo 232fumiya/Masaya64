@@ -29,7 +29,7 @@ public class move_char : MonoBehaviour {
 		if (controller.isGrounded) {
 			moveDirection = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
 			moveDirection = transform.TransformDirection(moveDirection);    //?必要ない気もする
-			moveDirection *= speed;  
+			moveDirection *= speed;
 		}
 	}
 
